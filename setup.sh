@@ -24,7 +24,7 @@ echo
 
 
 
-STEAM_PATH=~/.local/share/Steam
+STEAM_PATH=/home/user/.steam/debian-installation
 STEAM_PATH_CSTRIKE=${STEAM_PATH}/steamapps/common/Half-Life/cstrike
 STEAM_PATH_DOD=${STEAM_PATH}/steamapps/common/Half-Life/dod
 
